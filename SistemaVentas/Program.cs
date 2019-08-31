@@ -10,8 +10,7 @@ namespace SistemaVentas
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola! soy el profe");
-            Console.ReadLine();
+            Console.WriteLine("Agregando cambios");
         }
     }
 }
