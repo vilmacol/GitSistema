@@ -12,7 +12,7 @@ namespace SistemaVentas
         {
             Console.WriteLine("Hola! soy el profe");
             Console.ReadLine();
-            Console.WriteLine("Ahora si funciono carajo");
+            Console.WriteLine("Ahora si funciono");
         }
     }
 }
