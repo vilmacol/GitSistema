@@ -13,6 +13,8 @@ namespace SistemaVentas
             Console.WriteLine("Hola! soy el profe");
             Console.ReadLine();
             Console.WriteLine("Ahora si funciono");
+            Console.ReadLine();
+            Console.WriteLine("hola grupo");
         }
     }
 }
